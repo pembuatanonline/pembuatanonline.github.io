@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://pembuatanakun.com/sitemap.xml 
+Sitemap: https://pembuatan.online/sitemap.xml 
