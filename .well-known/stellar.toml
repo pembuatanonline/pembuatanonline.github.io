@@ -1,0 +1,19 @@
+FEDERATION_SERVER="https://api.stellar.org/federation" 
+
+ACCOUNTS=["", 
+""
+] 
+
+[DOCUMENTATION] 
+ORG_NAME="Pembuatan Online" 
+ORG_URL="https://pembuatan.online" 
+ORG_LOGO="https://pembuatan.online/logo.png" 
+
+[[CURRENCIES]] 
+code="ONLINE" 
+issuer="" 
+status="live" 
+name="ONLINE" 
+desc="There will be only 1,000,000 ONLINE existed on SDEX for investors which will generate dividends as much as 2.5% per month for 10 years. The dividends send regularly to investor wallets every month." 
+display_decimals=2 
+image="https://pembuatan.online/logo.png" 
